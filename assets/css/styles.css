@@ -235,7 +235,7 @@ img {
   top: -50px;
   width: 40px;
   height: 40px;
-  background-image: url('/assets/img/leaf.PNG'); /* Or use a Unicode character like 🍁 */
+  background-image: url('assets/img/leaf.PNG'); /* Or use a Unicode character like 🍁 */
   background-size: contain;
   background-repeat: no-repeat;
   animation-name: fall;
